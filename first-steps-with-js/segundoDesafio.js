@@ -1,5 +1,6 @@
 let total = 0;
 const distancia = 100;
+const valorConsumo = 10;
 const valorGasolina = 5.79;
 const valorEtanol = 4.99;
 const tipoCombustivel = 'Etanol';
